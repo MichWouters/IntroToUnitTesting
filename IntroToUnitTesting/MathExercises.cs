@@ -20,10 +20,7 @@ namespace IntroToUnitTesting
 
         public int Subtract(int a, int b)
         {
-            int result = a - b +1;
-            Console.WriteLine("Weeeee");
-
-            Console.WriteLine("Yiiihaaaa");
+            int result = a - b;
             return result;
         }
 
